@@ -1,0 +1,44 @@
+# intellij
+.idea
+
+# vscode
+.vscode
+.history
+
+# npm
+node_modules
+npm-debug.log
+npm-debug.log.*
+
+# yarn
+yarn-error.log
+
+# distribute dirs
+dist*/
+
+# macos byproducts
+.DS_Store
+*.DS_Store
+**.DS_Store
+
+# backup files
+*.bak
+
+# tests
+jest-test-results.json
+coverage
+
+# ssl
+*.pem
+
+# profiling outputs
+*.cpuprofile
+
+# zips
+*.zip
+
+# logs
+*.log
+
+# storybook
+storybook-static
