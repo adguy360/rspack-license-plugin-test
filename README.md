@@ -1,0 +1,1 @@
+# rspack-license-plugin-test
