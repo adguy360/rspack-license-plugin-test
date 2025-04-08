@@ -19,11 +19,11 @@ npm start
 Build the app for production:
 
 ```bash
-npm build
+npm run build
 ```
 
 Preview the production build locally:
 
 ```bash
-npm preview
+npm run preview
 ```
